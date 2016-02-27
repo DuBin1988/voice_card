@@ -1,0 +1,9 @@
+<database classname="voice_card.db.SqlServerExecute">
+  <server>192.168.0.202</server>
+  <dbname>hotline</dbname>
+  <user>sa</user>
+  <port>1433</port>
+  <password>sql!@#</password>
+  <charset>ISO-8859-1</charset>
+</database>
+
